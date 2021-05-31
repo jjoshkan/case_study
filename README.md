@@ -1,2 +1,2 @@
 # case_study
-Collections of data driven case studies 
+Collection of data driven case studies 
